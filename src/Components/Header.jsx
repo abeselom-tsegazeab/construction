@@ -1,4 +1,3 @@
-import {Divider,Menu, MenuItem } from '@mui/material'
 import React from 'react'
 import { useState } from 'react'
 import {BiMap, BiPhone} from 'react-icons/bi'

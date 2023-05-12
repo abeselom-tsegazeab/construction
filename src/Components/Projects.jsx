@@ -1,6 +1,5 @@
 import React from 'react'
-import {animated} from '@react-spring/web'
-
+a
 import { StoreConsumer } from '../Context/Context'
 import { NavLink } from 'react-router-dom'
 const Projects = () => {

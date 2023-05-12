@@ -1,6 +1,5 @@
 import React from 'react'
 import {GrFacebookOption, GrInstagram, GrPinterest, GrTwitter, GrVimeo, GrYoutube} from 'react-icons/gr'
-import { GoogleMap, LoadScript } from '@react-google-maps/api';
 
 const Contact = () => {
 
