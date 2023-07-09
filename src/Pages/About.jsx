@@ -22,7 +22,7 @@ const About = () => {
    <section>
     <div className="relative ">
         <div className="">
-        <img src="images/about-1.webp" alt="about1"  className='w-full h-[80vh] object-cover'/>
+        <img src="images/about-1.jpg" alt="about1"  className='w-full h-[80vh] object-cover'/>
         </div>
         <div className="absolute  w-full  top-[30%] transform-y-[50%] text-center flex flex-col items-center gap-12">
         <div className="w-20  h-[2.5px] bg-[#f9b707]"></div>
