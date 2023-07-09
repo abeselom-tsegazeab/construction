@@ -3,7 +3,7 @@ import React from 'react'
 const Ourteam = () => {
   return (
     <section>
-        <div className="relative bg-[url('images/ourteam.jpg')] bg-cover bg-fixed h-[570px]">
+        <div className="relative bg-[url('images/ourteam.webp')] bg-cover bg-fixed h-[570px]">
         <div className="absolute  w-full  top-[30%] transform-y-[50%] text-center flex flex-col items-center gap-12">
             <div className="w-20  h-[2.5px] bg-[#f9b707]"></div>
             <h1 className='uppercase text-7xl text-white font-bold'>MEET THE TEAM. WHO WE ARE?</h1>
