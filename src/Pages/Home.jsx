@@ -19,7 +19,7 @@ const Home = () => {
         className="mySwiper " 
         >
         <SwiperSlide>
-            <section className='bg-[url("images/slide-1.webp")] h-fit  bg-no-repeat bg-cover bg-origin-content bg-fixed flex    w-full'>
+            <section className='bg-[url("images/slide-1.jpg")] h-fit  bg-no-repeat bg-cover bg-origin-content bg-fixed flex    w-full'>
                 <div className="md:mb-20 mx-auto">
                     <h1 className='transition-all  duration-1000 delay-75 md:text-[60px] text-[35px] w-full lg:text-[110px]  mt-24 md:mt-36  uppercase text-white font-Montserrat-500'>construction</h1>
                     <h1 className='transition-all  duration-1000 delay-75  text-[17px] sm:text-[20px] md:text-[25px]  lg:text-[30px] xl:text-[40px] capitalize font-Montserrat text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, veritatis.</h1>
@@ -28,7 +28,7 @@ const Home = () => {
             </section>
         </SwiperSlide>
         <SwiperSlide> 
-            <section className='bg-[url("images/slide-2.webp")]  bg-no-repeat bg-cover bg-origin-content bg-fixed w-full'>
+            <section className='bg-[url("images/slide-2.jpg")]  bg-no-repeat bg-cover bg-origin-content bg-fixed w-full'>
             <div className="md:mb-20 mx-auto">
                     <h1 className='transition-all  duration-1000 delay-75 md:text-[60px] text-[35px] w-full lg:text-[110px]  mt-24 md:mt-36  uppercase text-white font-Montserrat-500'>construction</h1>
                     <h1 className='transition-all  duration-1000 delay-75  text-[17px] sm:text-[20px] md:text-[25px]  lg:text-[30px] xl:text-[40px] capitalize font-Montserrat text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, veritatis.</h1>
@@ -38,7 +38,7 @@ const Home = () => {
         </SwiperSlide>
 
         <SwiperSlide> 
-            <section className='bg-[url("images/slide-3.webp")]  bg-no-repeat bg-cover bg-origin-content bg-fixed  w-full'>
+            <section className='bg-[url("images/slide-3.jpg")]  bg-no-repeat bg-cover bg-origin-content bg-fixed  w-full'>
             <div className="md:mb-20 mx-auto">
                     <h1 className='transition-all  duration-1000 delay-75 md:text-[60px] text-[35px] w-full lg:text-[110px]  mt-24 md:mt-36  uppercase text-white font-Montserrat-500'>construction</h1>
                     <h1 className='transition-all  duration-1000 delay-75  text-[17px] sm:text-[20px] md:text-[25px]  lg:text-[30px] xl:text-[40px] capitalize font-Montserrat text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, veritatis.</h1>
